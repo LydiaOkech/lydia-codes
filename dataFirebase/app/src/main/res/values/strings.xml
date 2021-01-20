@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dataFirebase</string>
+    <string name="button">Button</string>
+    <string name="status">STATUS</string>
+    <string name="specialty">SPECIALTY</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="pandemic">PANDEMIC</string>
+    <string name="consultation">CONSULTATION</string>
+    <string name="insemination">INSEMINATION</string>
+</resources>
